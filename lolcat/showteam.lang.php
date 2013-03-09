@@ -6,21 +6,21 @@
  * $Id$
  */
 
-$l['nav_showteam'] = "Forum Team";
-$l['forum_team'] = "Forum Team";
-$l['moderators'] = "Moderators";
-$l['mod_username'] = "Username";
-$l['mod_forums'] = "Forum(s)";
-$l['mod_email'] = "Email";
-$l['mod_pm'] = "PM";
-$l['uname'] = "Username";
-$l['email'] = "Email";
-$l['pm'] = "PM";
+$l['nav_showteam'] = "TEH TEAM";
+$l['forum_team'] = "TEH TEAM";
+$l['moderators'] = "MODS";
+$l['mod_username'] = "USRNAME";
+$l['mod_forums'] = "FORUM(Z)";
+$l['mod_email'] = "EMAILZ";
+$l['mod_pm'] = "MAILZ";
+$l['uname'] = "USRNAME";
+$l['email'] = "EMAILZ";
+$l['pm'] = "MAILZ";
 
-$l['group_leaders'] = "Leader(s)";
-$l['group_members'] = "Member(s)";
+$l['group_leaders'] = "LEADR(Z)";
+$l['group_members'] = "PIPLZ";
 
-$l['no_members'] = "No members in this group";
+$l['no_members'] = "NO ONE IN GROUP";
 
-$l['error_noteamstoshow'] = "There are no forum staff to be shown.";
+$l['error_noteamstoshow'] = "THERE R NO ONE ON TEH TEAM.";
 ?>

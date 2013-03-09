@@ -6,21 +6,21 @@
  * $Id$
  */
 
-$l['nav_newreply'] = "Post Reply";
+$l['nav_newreply'] = "NEW POST";
 
-$l['post_reply_to'] = "Post Reply to {1}";
-$l['post_new_reply'] = "Post a New Reply";
-$l['reply_to'] = "Reply to thread: {1}";
+$l['post_reply_to'] = "NEW POST IN {1}";
+$l['post_new_reply'] = "MAKE NEW POST";
+$l['reply_to'] = "POST IN {1}";
 $l['post_subject'] = "Post Subject:";
-$l['your_message'] = "Your Message:";
+$l['your_message'] = "UR POST:";
 $l['post_options'] = "Post Options:";
-$l['options_sig'] = "<strong>Signature:</strong> include your signature. (registered users only)";
-$l['options_emailnotify'] = "<strong>Email Notification:</strong> receive an email whenever there is a new reply. (registered users only)";
-$l['options_disablesmilies'] = "<strong>Disable Smilies:</strong> disable smilies from showing in this post.";
-$l['post_reply'] = "Post Reply";
-$l['preview_post'] = "Preview Post";
-$l['mod_options'] ="Moderator Options:";
-$l['close_thread'] = "<strong>Close Thread</strong>: prevent further posting in this thread.";
+$l['options_sig'] = "<strong>SIGNACHUR:</strong> INCLUDE SIGNACHUR. (ONLY 4 REGISTURED MEMBURS)";
+$l['options_emailnotify'] = "<strong>EMAIL:</strong> RECEIV AN EMAIL WHENEVR THAR IZ NEW REPLY. (REGISTERD USERS ONLY)";
+$l['options_disablesmilies'] = "<strong>DISABEL SMILIEZ:</strong> DISABLE SMILIEZ FRUM SHOWIN IN DIS POST.";
+$l['post_reply'] = "POST!!";
+$l['preview_post'] = "PREVIEW POST";
+$l['mod_options'] ="MODERATER OPSHUNZ:";
+$l['close_thread'] = "<strong>KILL THRED</strong>: U CAN'T POST IN IT.";
 $l['stick_thread'] = "<strong>Stick Thread:</strong> stick this thread to the top of the forum.";
 $l['forum_rules'] = "{1} - Rules";
 $l['thread_review'] = "Thread Review (Newest First)";
@@ -28,10 +28,10 @@ $l['thread_review_more'] = "This thread has more than {1} replies. <a href=\"{2}
 $l['posted_by'] = "Posted by";
 $l['draft_saved'] = "The new post has successfully been saved as a draft.<br />You will now be taken to your draft listing.";
 $l['image_verification'] = "Image Verification";
-$l['verification_note'] = "Please enter the text contained within the image into the text box below it. This process is used to prevent automated posts.";
+$l['verification_note'] = "U NEED 2 WRITE THE TEXT IN THE BOX. ITS FUR UR OWN GUD.";
 $l['verification_subnote'] = "(case insensitive)";
-$l['invalid_captcha'] = "The image verification code that you entered was incorrect. Please enter the code exactly how it appears in the image.";
-$l['error_post_already_submitted'] = "You have already posted this reply to the specified thread. Please visit the thread to see your reply.";
+$l['invalid_captcha'] = "U ROTE THE RONG CODE. WRITE IT AS U SEE IT, PLZ.";
+$l['error_post_already_submitted'] = "U'VE POSTED THIS ALREDY. GO TO THE THRED 2 SEE IT, PLZ.";
 $l['multiquote_external_one'] = "You have selected one post outside of this thread.";
 $l['multiquote_external'] = "You have selected {1} posts outside of this thread.";
 $l['multiquote_external_one_deselect'] = "deselect this post";
