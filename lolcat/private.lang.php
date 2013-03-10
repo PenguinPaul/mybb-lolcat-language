@@ -6,8 +6,8 @@
  * $Id$
  */
 
-$l['nav_pms'] = "Private Messages";
-$l['nav_send'] = "Compose";
+$l['nav_pms'] = "MAILZ";
+$l['nav_send'] = "NEW MAILZ";
 $l['nav_tracking'] = "Message Tracking";
 $l['nav_folders'] = "Folder Management";
 $l['nav_empty'] = "Empty Folders";
@@ -20,11 +20,11 @@ $l['old_pm'] = "Old Message";
 $l['reply_pm'] = "Replied To";
 $l['fwd_pm'] = "Forwarded Message";
 
-$l['pms_disabled'] = "You cannot use the private messaging functionality as it has been disabled by the Administrator.";
+$l['pms_disabled'] = "U CAN'T USE MAILZ.";
 
 $l['private_messaging'] = "Private Messaging";
 $l['inbox'] = "Inbox";
-$l['compose_message2'] = "Compose Message";
+$l['compose_message2'] = "WRITE MAILZ";
 $l['manage_folders'] = "Manage Folders";
 $l['pms_in_folder'] = "Private Messages in folder <em>{1}</em>";
 $l['pm_search_results'] = "Private Message Search Results";
@@ -52,17 +52,17 @@ $l['export_unread'] = "Export Unread Messages?";
 $l['delete_archived'] = "Delete Exported Messages?";
 $l['delete_archived_note'] = "Do you want to delete the messages from your folders once they have been exported?";
 $l['export_format'] = "Export File Format";
-$l['export_format_note'] = "Please choose the file type of which to download attachments.";
+$l['export_format_note'] = "HOW DO U WANT UR MAILZ?";
 $l['export_html'] = "HTML File (.html)";
 $l['export_txt'] = "Text File (.txt)";
 $l['export_csv'] = "Importable MS Excel File (.csv)";
-$l['private_messages_for'] = "Private Messages for {1}";
+$l['private_messages_for'] = "MAILZ for {1}";
 $l['exported_date']  = "Exported: {1}, {2}";
 $l['subject'] = "Subject:";
 $l['to'] = "To:";
 $l['from'] = "From:";
 $l['sent'] = "Sent:";
-$l['export_messages2'] = "Download Messages";
+$l['export_messages2'] = "DOWNLOAD MAILZ";
 $l['empty_folders'] = "Empty Private Messaging Folders";
 $l['empty_folders2'] = "Empty Folders";
 $l['empty_note'] = "Here you can delete private messages from selected folders at one time. Simply select the folders you wish the messages to be deleted from and click 'Delete'. You cannot undo these changes.<br /><strong>Note: Once these messages are deleted there is no way to recover them.</strong>";
