@@ -3,10 +3,10 @@
 $langinfo['name'] = "LOLCATZ";
 
 // The author of the language
-$langinfo['author'] = "PAUL HEDMANZ";
+$langinfo['author'] = "PAUL HEDMANZ/ODIN/OTHAR PEOPLE";
 
 // The language authors website
-$langinfo['website'] = "http://PAULHEDMAN.COM/";
+$langinfo['website'] = "https://github.com/PenguinPaul/mybb-lolcat-language";
 
 // Compatible version of MyBB
 $langinfo['version'] = "1609";
