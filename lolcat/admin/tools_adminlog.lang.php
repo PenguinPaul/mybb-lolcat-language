@@ -2,7 +2,7 @@
 /**
  * MyBB 1.6 English Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
- * 
+ *
  * $Id$
  */
 
@@ -59,7 +59,7 @@ $l['admin_log_config_calendars_add'] = "Added calendar #{1} ({2})";
 $l['admin_log_config_calendars_permissions'] = "Modified permissions for calendar #{1} ({2})";
 $l['admin_log_config_calendars_edit'] = "Edited calendar #{1} ({2})";
 $l['admin_log_config_calendars_delete'] = "Deleted calendar #{1} ({2})";
-$l['admin_log_config_calendars_update_orders'] = "Updated calendar display order";
+$l['admin_log_config_calendars_update_order'] = "Updated calendar display order";
 
 $l['admin_log_config_help_documents_add_section'] = "Added help section #{1} ({2})";
 $l['admin_log_config_help_documents_add_document'] = "Added help document #{1} ({2})";
@@ -182,14 +182,14 @@ $l['admin_log_style_themes_export'] = "Exported theme #{1} ({2})";
 $l['admin_log_tools_system_health_utf8_conversion'] = "Converted table {1} to UTF-8 Character Set.";
 
 $l['admin_log_tools_adminlog_prune'] = "Pruned {4} administrator logs older than {1} days";
-$l['admin_log_tools_adminlog_prune_user'] = "Pruned {4} administrator logs older than {1} days for user {2}";
+$l['admin_log_tools_adminlog_prune_user'] = "Pruned {4} administrator logs older than {1} days for user #{2}";
 $l['admin_log_tools_adminlog_prune_module'] = "Pruned {4} administrator logs older than {1} days for module {3}";
-$l['admin_log_tools_adminlog_prune_user_module'] = "Pruned {4} administrator logs older than {1} days for user {2} and module {3}";
+$l['admin_log_tools_adminlog_prune_user_module'] = "Pruned {4} administrator logs older than {1} days for user #{2} and module {3}";
 
 $l['admin_log_tools_modlog_prune'] = "Pruned {4} moderator logs older than {1} days";
-$l['admin_log_tools_modlog_prune_user'] = "Pruned {4} moderator logs older than {1} days for user {2}";
+$l['admin_log_tools_modlog_prune_user'] = "Pruned {4} moderator logs older than {1} days for user #{2}";
 $l['admin_log_tools_modlog_prune_forum'] = "Pruned {4} moderator logs older than {1} days for forum #{3} ({5})";
-$l['admin_log_tools_modlog_prune_user_forum'] = "Pruned {4} moderator logs older than {1} days for user {2} and forum #{5} ({4})";
+$l['admin_log_tools_modlog_prune_user_forum'] = "Pruned {4} moderator logs older than {1} days for user #{2} and forum #{3} ({5})";
 
 $l['admin_log_tools_backupdb_dlbackup'] = "Downloaded an existing backup: {1}";
 $l['admin_log_tools_backupdb_delete'] = "Deleted a backup: {1}";
@@ -197,6 +197,7 @@ $l['admin_log_tools_backupdb_backup'] = "Created a backup: {2}";
 $l['admin_log_tools_backupdb_backup_download'] = "Downloaded a backup of the current database";
 
 $l['admin_log_tools_cache_rebuild'] = "Rebuilt cache ({1})";
+$l['admin_log_tools_cache_reload'] = "Reload cache ({1})";
 
 $l['admin_log_tools_index_utf8_conversion'] = "Converted table {1} to UTF-8";
 
@@ -211,7 +212,7 @@ $l['admin_log_tools_recount_rebuild_stats'] = "Recounted and rebuilt statistics"
 $l['admin_log_tools_recount_rebuild_forum'] = "Recounted and rebuilt forum counters";
 $l['admin_log_tools_recount_rebuild_thread'] = "Recounted and rebuilt thread counters";
 $l['admin_log_tools_recount_rebuild_userposts'] = "Recounted and rebuilt user post counts";
-$l['admin_log_tools_recount_rebuild_attachmentthumbs'] = "Recounted and rebuilt attachment thumbnails"; 
+$l['admin_log_tools_recount_rebuild_attachmentthumbs'] = "Recounted and rebuilt attachment thumbnails";
 
 $l['admin_log_tools_tasks_add'] = "Added task #{1} ({2})";
 $l['admin_log_tools_tasks_edit'] = "Edited task #{1} ({2})";
@@ -245,8 +246,8 @@ $l['admin_log_user_groups_add'] = "Added usergroup #{1} ({2})";
 $l['admin_log_user_groups_edit'] = "Edited usergroup #{1} ({2})";
 $l['admin_log_user_groups_delete'] = "Deleted usergroup #{1} ({2})";
 $l['admin_log_user_groups_disporder'] = "Updated usergroup display orders";
-$l['admin_log_user_groups_join_requests_approve'] = "Approved selected join requests for usergroup #{1} ({2})";
-$l['admin_log_user_groups_join_requests_deny'] = "Denied selected join requests for usergroup #{1} ({2})";
+$l['admin_log_user_groups_join_requests_approve'] = "Approved selected join requests for usergroup #{3} ({2})";
+$l['admin_log_user_groups_join_requests_deny'] = "Denied selected join requests for usergroup #{3} ({2})";
 
 $l['admin_log_user_titles_add'] = "Added default user title #{1} ({2}) at {3} posts";
 $l['admin_log_user_titles_edit'] = "Edited default user title #{1} ({2}) at {3} posts";
@@ -267,6 +268,6 @@ $l['admin_log_user_users_inline_banned_temp'] = "Banned {1} user(s) until {2}";
 $l['admin_log_user_users_inline_activated'] = "Activated {1} user(s)";
 $l['admin_log_user_users_inline_lift'] = "Lifted {1} user(s) bans";
 
-$l['admin_log_user_mass_mail_delete'] = "Deleted mass mail #{1} ({2})"; 
- 
+$l['admin_log_user_mass_mail_delete'] = "Deleted mass mail #{1} ({2})";
+
 ?>

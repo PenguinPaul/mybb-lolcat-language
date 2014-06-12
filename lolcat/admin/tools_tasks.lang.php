@@ -2,7 +2,7 @@
 /**
  * MyBB 1.6 English Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
- * 
+ *
  * $Id$
  */
 
@@ -75,5 +75,6 @@ $l['success_task_run'] = "The selected task has been run successfully.";
 
 $l['confirm_task_deletion'] = "Are you sure you wish to delete this scheduled task?";
 $l['confirm_task_enable'] = "<strong>WARNING:</strong> You are about to enable a task that is only meant to be run via a cron (Please see the <a href=\"http://wiki.mybb.com/\" target=\"_blank\">MyBB Wiki</a> for more information). Continue?";
+$l['no_tasks'] = "There are no tasks on your forum at this time.";
 
 ?>
