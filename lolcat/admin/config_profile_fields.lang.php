@@ -2,10 +2,10 @@
 /**
  * MyBB 1.6 English Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
- * 
+ *
  * $Id$
  */
- 
+
 $l['custom_profile_fields'] = "Custom Profile Fields";
 $l['custom_profile_fields_desc'] = "This section allows you to edit, delete, and manage your custom profile fields.";
 $l['add_profile_field'] = "Add Profile Field";
@@ -33,7 +33,7 @@ $l['field_type_desc'] = "This is the field type that will be shown.";
 $l['selectable_options'] = "Selectable Options?";
 $l['selectable_options_desc'] = "Please enter each option on a separate line. This only applies to the select boxes, check boxes, and radio buttons types.";
 $l['required'] = "Required?";
-$l['required_desc'] = "Is this field required to be filled in during registration or profile editing? Note that this does not apply if the field is hidden.";
+$l['required_desc'] = "Is this field required to be filled in during registration or profile editing? Note that this does not apply if the field is hidden or the field is not editable.";
 $l['editable_by_user'] = "Editable by user?";
 $l['editable_by_user_desc'] = "Should this field be editable by the user? If not, administrators/moderators can still edit the field.";
 $l['hide_on_profile'] = "Hide on profile?";

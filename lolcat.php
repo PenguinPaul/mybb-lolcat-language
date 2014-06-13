@@ -9,7 +9,7 @@ $langinfo['author'] = "PAUL HEDMANZ/ODIN/OTHAR PEOPLE";
 $langinfo['website'] = "https://github.com/PenguinPaul/mybb-lolcat-language";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1609";
+$langinfo['version'] = "1613";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;
